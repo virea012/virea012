@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @virea012
+- 👋 Hi, I’m Vince
 - 👀 I’m interested in programming, machine learning, gaming, and volleyball
 - 🌱 I’m currently learning how to pass school
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: don't
+- 📫 How to reach me: do not
 
 <!---
 virea012/virea012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
